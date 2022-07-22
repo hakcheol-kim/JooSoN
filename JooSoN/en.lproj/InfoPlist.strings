@@ -1,0 +1,11 @@
+NSBluetoothAlwaysUsageDescription = "It is required to convey the user's destination information to the navigation via Bluetooth communication." ;
+NSBluetoothPeripheralUsageDescription = "It is necessary to convey the user's destination information to the navigation via Bluetooth communication." ;
+NFCReaderUsageDescription = "It is necessary to pass the user's destination information to the navigation using NFC." ;
+NSCameraUsageDescription = "It is required to add or change the profile image of the contact." ;
+NSPhotoLibraryUsageDescription = "It is required to add or change the profile image of the contact." ;
+NSContactsUsageDescription = "It is necessary to provide contact information display, phone calls, text messages, and video calls due to the function of the app.\n※ Contact information is only used within the app and is not stored outside (server)." ;
+NSLocationAlwaysAndWhenInUseUsageDescription = "Your current location is displayed on the map, and it is necessary to deliver the destination search results and nearby search results to the navigation system." ;
+NSLocationAlwaysUsageDescription = "Your current location is displayed on the map, and it is necessary to deliver the destination search results and nearby search results to Navigation." ;
+NSLocationWhenInUseUsageDescription = "Your current location is displayed on the map, and it is necessary to deliver the destination search results and nearby search results to Navigation." ;
+NSMicrophoneUsageDescription = "A destination on the map, required for voice search in the phone book." ;
+NSSpeechRecognitionUsageDescription = "A destination on the map, required for voice search in the phone book." ;

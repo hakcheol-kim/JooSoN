@@ -1,0 +1,49 @@
+PODS:
+  - GoogleMaps (4.1.0):
+    - GoogleMaps/Maps (= 4.1.0)
+  - GoogleMaps/Base (4.1.0)
+  - GoogleMaps/Maps (4.1.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.1.0):
+    - GoogleMaps/Base (= 4.1.0)
+  - iOS-Check-Permission (0.1.2)
+  - LGSideMenuController (2.3.0)
+  - libPhoneNumber-iOS (0.9.15)
+  - LMGeocoder (1.1.0)
+  - Toast (4.0.0)
+  - VYNFCKit (0.3.2)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - iOS-Check-Permission
+  - LGSideMenuController (= 2.3.0)
+  - libPhoneNumber-iOS (~> 0.8)
+  - LMGeocoder
+  - Toast (~> 4.0.0)
+  - VYNFCKit
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - GooglePlaces
+    - iOS-Check-Permission
+    - LGSideMenuController
+    - libPhoneNumber-iOS
+    - LMGeocoder
+    - Toast
+    - VYNFCKit
+
+SPEC CHECKSUMS:
+  GoogleMaps: 008e2c80e38605b56b560e8deb73d4194ff30bef
+  GooglePlaces: a058b776259c13e1323c9ff135549cb1b13ad8e7
+  iOS-Check-Permission: 34bf767ce679ac9bd69ae69362cd4dd5af76e672
+  LGSideMenuController: 330643f700bce9783a153660123de7cb64b5aa78
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+  LMGeocoder: a5f44d368721c1f5901d61a9fca2e3268e8bf7a7
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  VYNFCKit: 86a9b711fd1f34f6f7128a2a883cd58dbd781b9d
+
+PODFILE CHECKSUM: 0e1f4ac3745cb33b3cb817b5aef1a9a16a374908
+
+COCOAPODS: 1.11.3

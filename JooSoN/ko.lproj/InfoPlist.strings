@@ -1,0 +1,11 @@
+NSBluetoothAlwaysUsageDescription = "사용자의 목적지 정보를 블루투스 통신을 통해 네비게이션에 전달하기위해 필요합니다." ;
+NSBluetoothPeripheralUsageDescription = "사용자의 목적지 정보를 블루투스 통신을 통해 네비게이션에 전달하기위해 필요합니다." ;
+NFCReaderUsageDescription = "사용자의 목적지 정보를 NFC를 위용해 네비게이션에 전달하기위해 필요합니다." ;
+NSCameraUsageDescription = "연락처의 프로파일 이미지를 추가, 변경 하기 위해 필요합니다." ;
+NSPhotoLibraryUsageDescription = "연락처의 프로파일 이미지를 추가, 변경 하기 위해 필요합니다." ;
+NSContactsUsageDescription = "앱 기능상 연락처 정보 표시, 전화, 문자, 영상통화를 제공하기 위해 필요합니다.\n※ 연락처 정보는 앱 내에서만 사용하고 있으며 외부(서버)에 저장하지 않습니다." ;
+NSLocationAlwaysAndWhenInUseUsageDescription = "사용자의 현재위치가 지도상에 표시되며, 목적지 검색결과, 주변 검색결과를 네비계션에 전달하기위해 필요합니다." ;
+NSLocationAlwaysUsageDescription = "사용자의 현재위치가 지도상에 표시되며, 목적지 검색결과, 주변 검색결과를 네비계션에 전달하기위해 필요합니다." ;
+NSLocationWhenInUseUsageDescription = "사용자의 현재위치가 지도상에 표시되며, 목적지 검색결과, 주변 검색결과를 네비계션에 전달하기위해 필요합니다." ;
+NSMicrophoneUsageDescription = "지도상의 목적지, 전화번호부에서 음성검색을 위해 필요합니다." ;
+NSSpeechRecognitionUsageDescription = "지도상의 목적지, 전화번호부에서 음성검색을 위해 필요합니다." ;
