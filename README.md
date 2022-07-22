@@ -21,7 +21,7 @@
     <td>NFC TAG</td>
   </tr>
   <tr>
-     <td><img src="https://github.com/hck424/JooSoN/blob/master/IMG_0796.PNG" width=270 height=480></td>
+     <td><img src="https://github.com/iruri2010/JooSoN/blob/main/%E1%84%8C%E1%85%AE%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.PNG" width=270 height=480></td>
      <td><img src="https://github.com/hck424/JooSoN/blob/master/IMG_0795.PNG" width=270 height=480></td>
      <td><img src="https://github.com/hck424/JooSoN/blob/master/IMG_0794.PNG" width=270 height=480></td>
   </tr>
