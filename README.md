@@ -12,7 +12,7 @@
   <tr>
     <td><img src="https://github.com/iruri2010/JooSoN/blob/main/%E1%84%80%E1%85%AF%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.PNG" width=270 height=480></td>
     <td><img src="https://github.com/iruri2010/JooSoN/blob/main/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AF.PNG" width=270 height=480></td>
-    <td><img src="https://github.com/hck424/JooSoN/blob/master/IMG_2486A6C8359C-1.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/iruri2010/JooSoN/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%B5.jpeg" width=270 height=480></td>
     <td><img src="https://github.com/hck424/JooSoN/blob/master/IMG_0791.PNG" width=270 height=480></td>
   </tr>
   <tr>
