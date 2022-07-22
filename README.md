@@ -28,6 +28,6 @@
  </table>
 
 맵 sdk는 용량이 커서 lfs 로 설치 해야 합니다.
-맥 설치 : brew install git-lfs
-git lfs migrate import --include "덩치커서 안올라간 파일 경로" 
-ex) git lfs migrate import --include "*.a" 
+- 맥 설치 : brew install git-lfs
+- git lfs migrate import --include "덩치커서 안올라간 파일 경로" 
+- ex) git lfs migrate import --include "*.a" 
